@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Twitter</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.Growl.Twitter</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>DISP</string>
+	<key>CFBundleSignature</key>
+	<string>GRRR</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CSResourcesFileMapped</key>
+	<string>yes</string>
+	<key>NSPrincipalClass</key>
+	<string>GrowlTwitterDisplay</string>
+	<key>CFBundleName</key>
+	<string>Twitter</string>
+	<key>GrowlPluginAuthor</key>
+	<string>Tyler Hall</string>
+	<key>GrowlPluginDescription</key>
+	<string>Send notifications via Twitter</string>
+</dict>
+</plist>
